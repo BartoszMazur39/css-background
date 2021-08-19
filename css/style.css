@@ -1,0 +1,13 @@
+header{
+    text-align: center;
+    background-image: url("../truskawka.jpg");
+    height: 600px;
+    width: 600px;
+}
+#o-mnie{
+    text-align: center;
+}
+img{
+    height: 300px;
+    width: 300px;
+}
